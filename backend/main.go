@@ -4,7 +4,7 @@ import (
 	"fmt"
 	"net/http"
 
-	"github.com/RedHoodJT1988/realtime-chat/pkg/websocket"
+	"github.com/RedHoodJT1988/gopher-chat/pkg/websocket"
 )
 
 func serveWs(pool *websocket.Pool, w http.ResponseWriter, r *http.Request) {

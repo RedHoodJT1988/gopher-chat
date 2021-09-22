@@ -1,4 +1,4 @@
-module github.com/RedHoodJT1988/realtime-chat
+module github.com/RedHoodJT1988/gopher-chat
 
 go 1.17
 
